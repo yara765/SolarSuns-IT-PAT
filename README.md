@@ -20,12 +20,26 @@ SolarSuns is dedicated to providing efficient and user-friendly software for man
 - **Transaction Management**: Monitor sales and generate reports on product performance.
 
 ---
+## 🛠 Technologies Used
 
-## 🚀 Getting Started
+- **Delphi**  
+  A powerful development environment for creating Windows applications.
 
-To get started with SolarSuns:
+- **Microsoft Access**  
+  Database management system used for storing and managing application data.
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yara765/SolarSuns.git
-   cd SolarSuns
+- **GitHub**  
+  Platform for version control and collaboration.
+
+---
+
+## 📞 Contact Us
+
+For more information or support, please contact us:
+
+- **Email**: [support@solarsuns.com](mailto:support@solarsuns.com)  
+- **Phone**: +27 31 342 4537  
+- **Website**: [www.solarsuns.com](https://www.solarsuns.com)
+
+---
+
